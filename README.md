@@ -1,2 +1,2 @@
 # CloudQuest
-## Game ideas by James & Simon
+Game ideas by James & Simon
