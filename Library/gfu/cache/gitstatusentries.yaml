@@ -1,0 +1,894 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-10-15T12:23:49.539-05:00
+  initializedAtString: 2020-10-15T12:14:03.085-05:00
+  entries:
+  - path: .vs\CloudQuest\v16\.suo
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\.vs\CloudQuest\v16\.suo
+    projectPath: .vs\CloudQuest\v16\.suo
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs\CloudQuest\v16\Server\sqlite3\db.lock
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\.vs\CloudQuest\v16\Server\sqlite3\db.lock
+    projectPath: .vs\CloudQuest\v16\Server\sqlite3\db.lock
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs\CloudQuest\v16\Server\sqlite3\storage.ide
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\.vs\CloudQuest\v16\Server\sqlite3\storage.ide
+    projectPath: .vs\CloudQuest\v16\Server\sqlite3\storage.ide
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs\CloudQuest\v16\Server\sqlite3\storage.ide-shm
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\.vs\CloudQuest\v16\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\CloudQuest\v16\Server\sqlite3\storage.ide-shm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs\CloudQuest\v16\Server\sqlite3\storage.ide-wal
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\.vs\CloudQuest\v16\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\CloudQuest\v16\Server\sqlite3\storage.ide-wal
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assembly-CSharp-Editor.csproj
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor.meta
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Assets\Editor.meta
+    projectPath: Assets\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\AutoSave.cs
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Assets\Editor\AutoSave.cs
+    projectPath: Assets\Editor\AutoSave.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\AutoSave.cs.meta
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Assets\Editor\AutoSave.cs.meta
+    projectPath: Assets\Editor\AutoSave.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins.meta
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CloudQuest.sln
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\CloudQuest.sln
+    projectPath: CloudQuest.sln
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ArtifactDB
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\01\0197175640d960c7fa7af0cd20fbea56
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\01\0197175640d960c7fa7af0cd20fbea56
+    projectPath: Library\Artifacts\01\0197175640d960c7fa7af0cd20fbea56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\06\0615d2eda14ffdb17d54c8e47b83b47a
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\06\0615d2eda14ffdb17d54c8e47b83b47a
+    projectPath: Library\Artifacts\06\0615d2eda14ffdb17d54c8e47b83b47a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0d\0d5451caf9e770fb24819e26ea4db23d
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\0d\0d5451caf9e770fb24819e26ea4db23d
+    projectPath: Library\Artifacts\0d\0d5451caf9e770fb24819e26ea4db23d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\10\104690e74134335d1e03b4f542f892fa
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\10\104690e74134335d1e03b4f542f892fa
+    projectPath: Library\Artifacts\10\104690e74134335d1e03b4f542f892fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\15\1583eb5921682bcd436da8ab9de29889
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\15\1583eb5921682bcd436da8ab9de29889
+    projectPath: Library\Artifacts\15\1583eb5921682bcd436da8ab9de29889
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    projectPath: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\22\22593f88ffa68711d26e735c1c03f157
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\22\22593f88ffa68711d26e735c1c03f157
+    projectPath: Library\Artifacts\22\22593f88ffa68711d26e735c1c03f157
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\24\24402f36ef91cb1d46eb6d5433b10def
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\24\24402f36ef91cb1d46eb6d5433b10def
+    projectPath: Library\Artifacts\24\24402f36ef91cb1d46eb6d5433b10def
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2a\2af8ec3f69d74de29256f332b0b2f547
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\2a\2af8ec3f69d74de29256f332b0b2f547
+    projectPath: Library\Artifacts\2a\2af8ec3f69d74de29256f332b0b2f547
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2e\2ed47abf84f1edc26f21792aa2b73f73
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\2e\2ed47abf84f1edc26f21792aa2b73f73
+    projectPath: Library\Artifacts\2e\2ed47abf84f1edc26f21792aa2b73f73
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\30\30a7351451df0f541c42d8ff2a1371c6
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\30\30a7351451df0f541c42d8ff2a1371c6
+    projectPath: Library\Artifacts\30\30a7351451df0f541c42d8ff2a1371c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\31\310184d1171f9d481bbed277966ffb74
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\31\310184d1171f9d481bbed277966ffb74
+    projectPath: Library\Artifacts\31\310184d1171f9d481bbed277966ffb74
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\38\38317141d543115c276f6426a23ff505
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\38\38317141d543115c276f6426a23ff505
+    projectPath: Library\Artifacts\38\38317141d543115c276f6426a23ff505
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\38\38483dac4b8d0f582c9143a0415152b4
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\38\38483dac4b8d0f582c9143a0415152b4
+    projectPath: Library\Artifacts\38\38483dac4b8d0f582c9143a0415152b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3c\3cca9178db28be0443d5cc5fd2e443c4
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\3c\3cca9178db28be0443d5cc5fd2e443c4
+    projectPath: Library\Artifacts\3c\3cca9178db28be0443d5cc5fd2e443c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3f\3fa1478899b9302aac3e17f412ce7064
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\3f\3fa1478899b9302aac3e17f412ce7064
+    projectPath: Library\Artifacts\3f\3fa1478899b9302aac3e17f412ce7064
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\49\49585a98906a881c7124cbf2bbf6d982
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\49\49585a98906a881c7124cbf2bbf6d982
+    projectPath: Library\Artifacts\49\49585a98906a881c7124cbf2bbf6d982
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\58\58539a58c5b1c83df7c336dce098f3f0
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\58\58539a58c5b1c83df7c336dce098f3f0
+    projectPath: Library\Artifacts\58\58539a58c5b1c83df7c336dce098f3f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\61\6183b65d1bb955d75da5f082bc22f1f5
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\61\6183b65d1bb955d75da5f082bc22f1f5
+    projectPath: Library\Artifacts\61\6183b65d1bb955d75da5f082bc22f1f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\69\6951a810f6040047d7b1de8d561c171a
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\69\6951a810f6040047d7b1de8d561c171a
+    projectPath: Library\Artifacts\69\6951a810f6040047d7b1de8d561c171a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6b\6b37e2d521f8c1f88f34cd3f2fcce694
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\6b\6b37e2d521f8c1f88f34cd3f2fcce694
+    projectPath: Library\Artifacts\6b\6b37e2d521f8c1f88f34cd3f2fcce694
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6d\6d65d611e2d116b5251fe6fb2a116230
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\6d\6d65d611e2d116b5251fe6fb2a116230
+    projectPath: Library\Artifacts\6d\6d65d611e2d116b5251fe6fb2a116230
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7e\7e5aa5e6103e73ba4a404db831d853ab
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\7e\7e5aa5e6103e73ba4a404db831d853ab
+    projectPath: Library\Artifacts\7e\7e5aa5e6103e73ba4a404db831d853ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\86\8649d005335f608a3ec2cdd0834dfc78
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\86\8649d005335f608a3ec2cdd0834dfc78
+    projectPath: Library\Artifacts\86\8649d005335f608a3ec2cdd0834dfc78
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\86\86ca511c68de9888a42cff85c2dc1925
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\86\86ca511c68de9888a42cff85c2dc1925
+    projectPath: Library\Artifacts\86\86ca511c68de9888a42cff85c2dc1925
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8d\8d3f775a6c84e897062f582967e10a9e
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\8d\8d3f775a6c84e897062f582967e10a9e
+    projectPath: Library\Artifacts\8d\8d3f775a6c84e897062f582967e10a9e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9e\9eeca17439b83cd6c27fb3c0c5b1a7b4
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\9e\9eeca17439b83cd6c27fb3c0c5b1a7b4
+    projectPath: Library\Artifacts\9e\9eeca17439b83cd6c27fb3c0c5b1a7b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a0\a085620e3c10abced120fbb6d71bcda4
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\a0\a085620e3c10abced120fbb6d71bcda4
+    projectPath: Library\Artifacts\a0\a085620e3c10abced120fbb6d71bcda4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a7\a70e1f5873577747f770e158128e6264
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\a7\a70e1f5873577747f770e158128e6264
+    projectPath: Library\Artifacts\a7\a70e1f5873577747f770e158128e6264
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a7\a7853b36cb3228cd0da68ad2d51ad565
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\a7\a7853b36cb3228cd0da68ad2d51ad565
+    projectPath: Library\Artifacts\a7\a7853b36cb3228cd0da68ad2d51ad565
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a9\a9a2a6b979dc217a63189a61be7244f6
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\a9\a9a2a6b979dc217a63189a61be7244f6
+    projectPath: Library\Artifacts\a9\a9a2a6b979dc217a63189a61be7244f6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\aa\aa3798ab3db3928555cf9488c78be6ae
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\aa\aa3798ab3db3928555cf9488c78be6ae
+    projectPath: Library\Artifacts\aa\aa3798ab3db3928555cf9488c78be6ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b2\b2768b97ea8378c13ee659c4df55284e
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\b2\b2768b97ea8378c13ee659c4df55284e
+    projectPath: Library\Artifacts\b2\b2768b97ea8378c13ee659c4df55284e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b7\b7d190f6cc9c4f64e1e03fb60722dcf2
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\b7\b7d190f6cc9c4f64e1e03fb60722dcf2
+    projectPath: Library\Artifacts\b7\b7d190f6cc9c4f64e1e03fb60722dcf2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b9\b9f1331cb272584379c7ebf5d9868710
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\b9\b9f1331cb272584379c7ebf5d9868710
+    projectPath: Library\Artifacts\b9\b9f1331cb272584379c7ebf5d9868710
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bf\bf1d213070a059a28aedd65179ed2ac3
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\bf\bf1d213070a059a28aedd65179ed2ac3
+    projectPath: Library\Artifacts\bf\bf1d213070a059a28aedd65179ed2ac3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bf\bf9d2ddd1506e04814d887933d9d5be1
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\bf\bf9d2ddd1506e04814d887933d9d5be1
+    projectPath: Library\Artifacts\bf\bf9d2ddd1506e04814d887933d9d5be1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c2\c2c001b4db0ae974317f7153c5a4e32c
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\c2\c2c001b4db0ae974317f7153c5a4e32c
+    projectPath: Library\Artifacts\c2\c2c001b4db0ae974317f7153c5a4e32c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cb\cb3ee63983c68d0fc900844a9310bdfe
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\cb\cb3ee63983c68d0fc900844a9310bdfe
+    projectPath: Library\Artifacts\cb\cb3ee63983c68d0fc900844a9310bdfe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cd\cdbe003ac9ebaa1661a9a93a57b45f1d
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\cd\cdbe003ac9ebaa1661a9a93a57b45f1d
+    projectPath: Library\Artifacts\cd\cdbe003ac9ebaa1661a9a93a57b45f1d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d6\d6a5302e0467858e4d217792c73c9533
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\d6\d6a5302e0467858e4d217792c73c9533
+    projectPath: Library\Artifacts\d6\d6a5302e0467858e4d217792c73c9533
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e7\e70ffad067f03a40d2abb832b263df3e
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\e7\e70ffad067f03a40d2abb832b263df3e
+    projectPath: Library\Artifacts\e7\e70ffad067f03a40d2abb832b263df3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f1\f1e2912dba053858d432105284ed4938
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\Artifacts\f1\f1e2912dba053858d432105284ed4938
+    projectPath: Library\Artifacts\f1\f1e2912dba053858d432105284ed4938
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SourceAssetDB
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\4c969a-mainStage.json
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\StateCache\Hierarchy\4c969a-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\4c969a-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\cc2798-mainStage.json
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\StateCache\SceneView\cc2798-mainStage.json
+    projectPath: Library\StateCache\SceneView\cc2798-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    projectPath: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\Unity.TextMeshPro.Editor.dll
+    projectPath: Temp\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\Unity.TextMeshPro.Editor.pdb
+    projectPath: Temp\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-04ce93a3857efd34ab312874eae1ac2e
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-04ce93a3857efd34ab312874eae1ac2e
+    projectPath: Temp\UnityTempFile-04ce93a3857efd34ab312874eae1ac2e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-06d00ee95bcaa0b4a924de2118f09393
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-06d00ee95bcaa0b4a924de2118f09393
+    projectPath: Temp\UnityTempFile-06d00ee95bcaa0b4a924de2118f09393
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-15c853e5fc936c14b96be0aae99e460f
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-15c853e5fc936c14b96be0aae99e460f
+    projectPath: Temp\UnityTempFile-15c853e5fc936c14b96be0aae99e460f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1795774438ee51e41bb6115095daa1d8
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-1795774438ee51e41bb6115095daa1d8
+    projectPath: Temp\UnityTempFile-1795774438ee51e41bb6115095daa1d8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-27540b33aff278e41a9580a7362da4f8
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-27540b33aff278e41a9580a7362da4f8
+    projectPath: Temp\UnityTempFile-27540b33aff278e41a9580a7362da4f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2979c8b522902d440bb1288aababdf93
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-2979c8b522902d440bb1288aababdf93
+    projectPath: Temp\UnityTempFile-2979c8b522902d440bb1288aababdf93
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3afdeef6c8d189b46a152f5edd5caa27
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-3afdeef6c8d189b46a152f5edd5caa27
+    projectPath: Temp\UnityTempFile-3afdeef6c8d189b46a152f5edd5caa27
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3e507f7989066034f96a9d089d059d76
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-3e507f7989066034f96a9d089d059d76
+    projectPath: Temp\UnityTempFile-3e507f7989066034f96a9d089d059d76
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4a7518013824c804d85e144002e2c672
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-4a7518013824c804d85e144002e2c672
+    projectPath: Temp\UnityTempFile-4a7518013824c804d85e144002e2c672
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4c79219ce121fa14c9e7917cedda6ad2
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-4c79219ce121fa14c9e7917cedda6ad2
+    projectPath: Temp\UnityTempFile-4c79219ce121fa14c9e7917cedda6ad2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4cb0c8ce34b32ef46a729600a0006a1e
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-4cb0c8ce34b32ef46a729600a0006a1e
+    projectPath: Temp\UnityTempFile-4cb0c8ce34b32ef46a729600a0006a1e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-577b4a6e39049b544a6fd61cb207cc7d
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-577b4a6e39049b544a6fd61cb207cc7d
+    projectPath: Temp\UnityTempFile-577b4a6e39049b544a6fd61cb207cc7d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-69c663abd66fdc74bb1ff2c5c9772b3f
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-69c663abd66fdc74bb1ff2c5c9772b3f
+    projectPath: Temp\UnityTempFile-69c663abd66fdc74bb1ff2c5c9772b3f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6f6e3b8790a755a4ea1fa9e2176a4c1f
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-6f6e3b8790a755a4ea1fa9e2176a4c1f
+    projectPath: Temp\UnityTempFile-6f6e3b8790a755a4ea1fa9e2176a4c1f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-79385544de11eea4b9a9ada998c9304d
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-79385544de11eea4b9a9ada998c9304d
+    projectPath: Temp\UnityTempFile-79385544de11eea4b9a9ada998c9304d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-79c8a811118d813468df8c9fafc24eac
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-79c8a811118d813468df8c9fafc24eac
+    projectPath: Temp\UnityTempFile-79c8a811118d813468df8c9fafc24eac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-84add1bb57a68cd4b86e50070563d3c6
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-84add1bb57a68cd4b86e50070563d3c6
+    projectPath: Temp\UnityTempFile-84add1bb57a68cd4b86e50070563d3c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-86daa68d497b2b445ae8cd7fa2cce610
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-86daa68d497b2b445ae8cd7fa2cce610
+    projectPath: Temp\UnityTempFile-86daa68d497b2b445ae8cd7fa2cce610
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9a243e4ae1227f445ac6deb0bf3b7e34
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-9a243e4ae1227f445ac6deb0bf3b7e34
+    projectPath: Temp\UnityTempFile-9a243e4ae1227f445ac6deb0bf3b7e34
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9d46248f4a3b87242906a03913a7d80f
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-9d46248f4a3b87242906a03913a7d80f
+    projectPath: Temp\UnityTempFile-9d46248f4a3b87242906a03913a7d80f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a06b32d583c34eb468c3d739ceff8208
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-a06b32d583c34eb468c3d739ceff8208
+    projectPath: Temp\UnityTempFile-a06b32d583c34eb468c3d739ceff8208
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a100ba6b1e52d1a4989593c79bbaec4d
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-a100ba6b1e52d1a4989593c79bbaec4d
+    projectPath: Temp\UnityTempFile-a100ba6b1e52d1a4989593c79bbaec4d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a6f2a233a33f6784792d9e823d799a0b
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-a6f2a233a33f6784792d9e823d799a0b
+    projectPath: Temp\UnityTempFile-a6f2a233a33f6784792d9e823d799a0b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a95b436e74869534c94c110779dc2fcf
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-a95b436e74869534c94c110779dc2fcf
+    projectPath: Temp\UnityTempFile-a95b436e74869534c94c110779dc2fcf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ac8b0b556d72d7649a59345cb72a659d
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-ac8b0b556d72d7649a59345cb72a659d
+    projectPath: Temp\UnityTempFile-ac8b0b556d72d7649a59345cb72a659d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b2020904052f4c4408a54775653ad80e
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-b2020904052f4c4408a54775653ad80e
+    projectPath: Temp\UnityTempFile-b2020904052f4c4408a54775653ad80e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b44ab140e5cdbf14da4038bfff0e4180
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-b44ab140e5cdbf14da4038bfff0e4180
+    projectPath: Temp\UnityTempFile-b44ab140e5cdbf14da4038bfff0e4180
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b521b78f29041674fb94da08e11e116f
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-b521b78f29041674fb94da08e11e116f
+    projectPath: Temp\UnityTempFile-b521b78f29041674fb94da08e11e116f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b67aa173d4e98c740a00ed507cfbf3e0
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-b67aa173d4e98c740a00ed507cfbf3e0
+    projectPath: Temp\UnityTempFile-b67aa173d4e98c740a00ed507cfbf3e0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c66945572d4a6b349b551261f2873a1c
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-c66945572d4a6b349b551261f2873a1c
+    projectPath: Temp\UnityTempFile-c66945572d4a6b349b551261f2873a1c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c71446673bfd37343bbab4258d7e18e7
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-c71446673bfd37343bbab4258d7e18e7
+    projectPath: Temp\UnityTempFile-c71446673bfd37343bbab4258d7e18e7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d07a72a961022a14eaa0d4aeeabe30f3
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-d07a72a961022a14eaa0d4aeeabe30f3
+    projectPath: Temp\UnityTempFile-d07a72a961022a14eaa0d4aeeabe30f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d7427ca194f3f7e4cbfe10950cc10ad4
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-d7427ca194f3f7e4cbfe10950cc10ad4
+    projectPath: Temp\UnityTempFile-d7427ca194f3f7e4cbfe10950cc10ad4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-de239ce79daade049a63120fdc322d14
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-de239ce79daade049a63120fdc322d14
+    projectPath: Temp\UnityTempFile-de239ce79daade049a63120fdc322d14
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ef6e30ef7a8a1a743938326228fb779f
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-ef6e30ef7a8a1a743938326228fb779f
+    projectPath: Temp\UnityTempFile-ef6e30ef7a8a1a743938326228fb779f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-fc45a805c358eb147a1c69a97781b1cc
+    fullPath: C:\Users\James\OneDrive - University of Missouri\CloudQuest\Temp\UnityTempFile-fc45a805c358eb147a1c69a97781b1cc
+    projectPath: Temp\UnityTempFile-fc45a805c358eb147a1c69a97781b1cc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
